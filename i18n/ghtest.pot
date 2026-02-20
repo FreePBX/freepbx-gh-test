@@ -9,3 +9,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encodig: 8bit\n"
 "Project-Id-Version: PACKAGE VERSION\n"
+
+# test
+#, php-format
+msgid "Hello"
+msgstr ""
