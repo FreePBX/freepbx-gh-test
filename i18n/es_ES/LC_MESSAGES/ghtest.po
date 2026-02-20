@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2026-02-20 21:07+0000\n"
+"PO-Revision-Date: 2026-02-20 22:47+0000\n"
 "Last-Translator: \"C. Maj\" <52975048+chrsmj@users.noreply.github.com>\n"
 "Language-Team: Spanish <https://weblate-beta.freepbx.org/projects/freepbx/"
 "freepbx-gh-test-17/es/>\n"
@@ -21,7 +21,7 @@ msgstr ""
 # test
 #, php-format
 msgid "Hello"
-msgstr "Hola"
+msgstr "Holla"
 
 # counting 1
 #, php-format
