@@ -14,3 +14,8 @@ msgstr ""
 #, php-format
 msgid "Hello"
 msgstr ""
+
+# counting 1
+#, php-format
+msgid "One"
+msgstr ""
