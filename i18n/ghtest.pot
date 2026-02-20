@@ -19,3 +19,8 @@ msgstr ""
 #, php-format
 msgid "One"
 msgstr ""
+
+# counting 2
+#, php-format
+msgid "Two"
+msgstr ""
