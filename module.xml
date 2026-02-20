@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<module>
+	<rawname>ghtest</rawname>
+	<repo>unsupported</repo>
+	<name>FreePBX GH Test</name>
+	<version>17.0.1</version>
+	<category>Development</category>
+	<publisher>Sangoma US Inc.</publisher>
+	<license>GPLv3+</license>
+	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
+	<description>FreePBX GH Test for Actions and more</description>
+	<more-info>https://freepbx.org</more-info>
+	<changelog>
+		*17.0.1* initial release
+	</changelog>
+	<supported>
+		<version>17.0</version>
+	</supported>
+	<menuitems>
+		<ghtest>FreePBX GH Test</ghtest>
+	</menuitems>
+	<console>
+		<command>
+			<name>ghtest</name>
+			<class>Ghtest</class>
+		</command>
+	</console>
+</module>
