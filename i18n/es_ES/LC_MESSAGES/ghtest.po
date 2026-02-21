@@ -7,40 +7,43 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
-"Language: es\n"
+"PO-Revision-Date: 2026-02-21 14:30+0000\n"
+"Last-Translator: \"C. Maj\" <52975048+chrsmj@users.noreply.github.com>\n"
+"Language-Team: Spanish <https://weblate-beta.freepbx.org/projects/freepbx/"
+"freepbx-gh-test-17/es/>\n"
+"Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
 "Content-Transfer-Encodig: 8bit\n"
 
 # test
 #, php-format
 msgid "Hello"
-msgstr ""
+msgstr "Hola"
 
 # counting 1
 #, php-format
 msgid "One"
-msgstr ""
+msgstr "Uno"
 
 # counting 2
 #, php-format
 msgid "Two"
-msgstr ""
+msgstr "Dos"
 
 # counting 3
 #, php-format
 msgid "Three"
-msgstr ""
+msgstr "Tres"
 
 # counting 4
 #, php-format
 msgid "Four"
-msgstr ""
+msgstr "Cuatro"
 
 # counting 5
 #, php-format
 msgid "Five"
-msgstr ""
+msgstr "Cinco"
