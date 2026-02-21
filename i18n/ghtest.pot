@@ -29,3 +29,9 @@ msgstr ""
 #, php-format
 msgid "Three"
 msgstr ""
+
+# counting 4
+#, php-format
+msgid "Four"
+msgstr ""
+
