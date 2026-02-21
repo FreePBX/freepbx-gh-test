@@ -35,3 +35,8 @@ msgstr ""
 msgid "Four"
 msgstr ""
 
+# counting 5
+#, php-format
+msgid "Five"
+msgstr ""
+
