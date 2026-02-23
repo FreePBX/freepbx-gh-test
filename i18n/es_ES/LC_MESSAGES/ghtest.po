@@ -52,3 +52,8 @@ msgstr "Cinco"
 #, php-format
 msgid "Six"
 msgstr "Seis"
+
+# counting 7
+#, php-format
+msgid "Seven"
+msgstr ""
