@@ -23,7 +23,8 @@ class Ghtest extends FreePBX_Helpers implements BMO {
 	}
 
 	public function install() {
-		$this->writelog(_("install"));
+		// this is a test
+		$this->writelog(_("install test again test"));
 	}
 
 	public function uninstall() {
