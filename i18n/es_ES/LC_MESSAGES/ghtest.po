@@ -7,8 +7,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2026-02-23 20:53+0000\n"
-"Last-Translator: \"C. Maj\" <52975048+chrsmj@users.noreply.github.com>\n"
+"PO-Revision-Date: 2026-02-26 18:38+0000\n"
+"Last-Translator: Michael White <mr.mikewhite@me.com>\n"
 "Language-Team: Spanish <https://weblate-beta.freepbx.org/projects/freepbx/"
 "freepbx-gh-test-17/es/>\n"
 "Language: es_ES\n"
@@ -18,37 +18,87 @@ msgstr ""
 "X-Generator: Weblate 5.15.2\n"
 "Content-Transfer-Encodig: 8bit\n"
 
+msgid "Test"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+#. this is a test
+msgid "install"
+msgstr ""
+
+msgid "install test also"
+msgstr ""
+
+#. test of the uninstall comments
+msgid "uninstall"
+msgstr ""
+
+#. comment for chown
+msgid "ownership"
+msgstr ""
+
+#. comment for configure page
+msgid "configure page"
+msgstr ""
+
+msgid "configure page test more"
+msgstr ""
+
+msgid "show page"
+msgstr ""
+
+msgid "Testing FreePBX repo GitHub Actions and more"
+msgstr ""
+
 # test
-#, php-format
 msgid "Hello"
 msgstr "Hola"
 
+msgid "Help"
+msgstr ""
+
+msgid "World"
+msgstr ""
+
+msgid "Thank you for visiting."
+msgstr ""
+
 # counting 1
 #, php-format
-msgid "One"
-msgstr "Uno"
+#~ msgid "One"
+#~ msgstr "Uno"
 
 # counting 2
 #, php-format
-msgid "Two"
-msgstr "Dos"
+#~ msgid "Two"
+#~ msgstr "Dos"
 
 # counting 3
 #, php-format
-msgid "Three"
-msgstr "Tres"
+#~ msgid "Three"
+#~ msgstr "Tres"
 
 # counting 4
 #, php-format
-msgid "Four"
-msgstr "Cuatro"
+#~ msgid "Four"
+#~ msgstr "Cuatro"
 
 # counting 5
 #, php-format
-msgid "Five"
-msgstr "Cinco"
+#~ msgid "Five"
+#~ msgstr "Cinco"
 
 # counting 6
 #, php-format
-msgid "Six"
-msgstr "Seis"
+#~ msgid "Six"
+#~ msgstr "Seis"
+
+# counting 7
+#, php-format
+#~ msgid "Seven"
+#~ msgstr "Siete"

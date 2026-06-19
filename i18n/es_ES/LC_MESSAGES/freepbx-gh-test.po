@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-19 03:07+0000\n"
+"PO-Revision-Date: 2026-06-19 03:13+0000\n"
+"Last-Translator: \"C. Maj\" <52975048+chrsmj@users.noreply.github.com>\n"
+"Language-Team: Spanish <https://weblate.freepbx.org/projects/freepbx/freepbx-"
+"gh-test-17/es/>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.15.2\n"
+
+msgid "Test"
+msgstr "Test"
+
+msgid "More"
+msgstr "Mas"
+
+msgid "Content"
+msgstr ""
+
+#. this is a test
+msgid "install"
+msgstr ""
+
+msgid "install test also"
+msgstr ""
+
+#. test of the uninstall comments
+msgid "uninstall"
+msgstr ""
+
+#. comment for chown
+msgid "ownership"
+msgstr ""
+
+#. comment for configure page
+msgid "configure page"
+msgstr ""
+
+msgid "configure page test more"
+msgstr ""
+
+msgid "show page"
+msgstr ""
+
+msgid "Testing FreePBX repo GitHub Actions and more"
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "World"
+msgstr ""
+
+msgid "Thank you for visiting."
+msgstr ""
