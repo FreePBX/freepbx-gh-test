@@ -29,6 +29,7 @@ class Ghtest extends FreePBX_Helpers implements BMO {
 	}
 
 	public function uninstall() {
+		// test of the uninstall comments
 		$this->writelog(_("uninstall"));
 	}
 
