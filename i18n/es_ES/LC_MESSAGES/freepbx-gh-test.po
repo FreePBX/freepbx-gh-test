@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-06-19 03:07+0000\n"
-"PO-Revision-Date: 2026-06-19 03:26+0000\n"
+"PO-Revision-Date: 2026-06-19 03:33+0000\n"
 "Last-Translator: \"C. Maj\" <52975048+chrsmj@users.noreply.github.com>\n"
 "Language-Team: Spanish <https://weblate.freepbx.org/projects/freepbx/freepbx-"
 "gh-test-17/es/>\n"
@@ -21,7 +21,7 @@ msgid "More"
 msgstr "Mas"
 
 msgid "Content"
-msgstr ""
+msgstr "contenido"
 
 #. this is a test
 msgid "install"
