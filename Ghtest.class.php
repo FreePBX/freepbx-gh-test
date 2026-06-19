@@ -45,6 +45,7 @@ class Ghtest extends FreePBX_Helpers implements BMO {
 	}
 
 	public function showPage() {
+		$this->writelog(_("one two three"));
 		$this->writelog(_("show page"));
 		return load_view(__DIR__ . "/views/index.php");
 	}
