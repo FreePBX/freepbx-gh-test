@@ -39,7 +39,9 @@ class Ghtest extends FreePBX_Helpers implements BMO {
 	}
 
 	public function doConfigPageInit($page) {
+		// comment for configure page
 		$this->writelog(_("configure page"));
+		$this->writelog(_("configure page test more"));
 	}
 
 	public function showPage() {
