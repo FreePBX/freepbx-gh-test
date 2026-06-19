@@ -34,6 +34,7 @@ class Ghtest extends FreePBX_Helpers implements BMO {
 	}
 
 	public function chownFreepbx() {
+		// comment for chown
 		$this->writelog(_("ownership"));
 	}
 
